@@ -92,10 +92,6 @@ The model is evaluated based on its ability to correctly solve arithmetic proble
 
 Contributions to improve the model or expand its capabilities are welcome. Please submit pull requests or open issues for any bugs or feature requests.
 
-## License
-
-[Specify your chosen license here]
-
 ## Acknowledgements
 
 This implementation is inspired by OpenAI's research on the O1 model. It is a simplified version 
