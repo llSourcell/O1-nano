@@ -1,4 +1,4 @@
-# O1 Model Implementation
+# O1 Nano
 
 ## Overview
 
