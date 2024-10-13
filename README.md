@@ -1,5 +1,7 @@
 # O1 Nano
 
+![O1-nano Logo](image.webp)
+
 ## Overview
 
 This project implements a simplified version of the O1 model, inspired by OpenAI's research. The O1 model is an advanced language model that integrates chain-of-thought reasoning with reinforcement learning during both training and inference. This implementation, called O1-nano, focuses on arithmetic problem-solving as a demonstration of the model's capabilities.
