@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# O1-nano: A Simplified Implementation of the O1 Model Concept
-
-![O1-nano Logo](o1-nano-logo.webp)
-=======
 # O1 Nano
->>>>>>> origin/main
 
 ## Overview
 
