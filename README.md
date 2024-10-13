@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # O1-nano: A Simplified Implementation of the O1 Model Concept
 
 ![O1-nano Logo](o1-nano-logo.webp)
+=======
+# O1 Nano
+>>>>>>> origin/main
 
 ## Overview
 
@@ -93,10 +97,6 @@ The model is evaluated based on its ability to correctly solve arithmetic proble
 ## Contributing
 
 Contributions to improve the model or expand its capabilities are welcome. Please submit pull requests or open issues for any bugs or feature requests.
-
-## License
-
-[Specify your chosen license here]
 
 ## Acknowledgements
 
