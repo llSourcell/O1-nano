@@ -3,7 +3,7 @@ from train import O1Model, vocab, tokenize, detokenize, vocab_size
 
 def load_model(model_path):
     # Load the state dict
-    state_dict = torch.load(model_path)
+    state_dict = torch.load(model_path, weights_only=True)
     
     # Infer model parameters from the state dict
     d_model = state_dict['embed.weight'].shape[1]
